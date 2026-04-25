@@ -1,3 +1,3 @@
 ## Hi, I'm Elizabeth 👋
 
-Using data analysis to explore real-world problems and identify meaningful patterns in data.
+Using data analysis to explore real-world problems and uncover meaningful patterns in data.
